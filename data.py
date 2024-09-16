@@ -15,3 +15,9 @@ question_data = [
     {"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
 
 ]
+
+# print(question_data[0]["answer"])
+
+my_dict = {"questions": ["What is your name?", "How old are you?"]}
+print(my_dict["questions"][0])
+
